@@ -26,7 +26,6 @@
     right: 0;
     z-index: -1;
     width: 100px;
-    height: auto;
     display: block;
 
 }
@@ -34,6 +33,15 @@
 .about-sections {
     display: flex;
     gap: 80px;
+
+
+}
+
+.about-left img {
+    width: 400px;
+    margin-top: 50%;
+    border-radius: 10%;
+
 
 }
 

@@ -1,7 +1,6 @@
 import React, { useRef, useState } from 'react'
 import './Navbar.css'
 import logo from '../../assets/infinity.png'
-import linkedin from '../../assets/linkedin-sign.png'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import star from '../../assets/star.png'
 import menu_open from '../../assets/menu.png'

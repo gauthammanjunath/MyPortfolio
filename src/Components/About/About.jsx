@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
 import star from '../../assets/star.png'
-import profile_img from '../../assets/Myphoto2.png'
+import profile_img from '../../assets/Myphoto3.png'
 
 const About = () => {
     return (
@@ -21,7 +21,7 @@ const About = () => {
                     <div className="about-skills">
                         <div className="about-skill"><p>•	Programming Language (C++, Java, JavaScript)</p><hr style={{ width: "60%" }} /></div>
                         <div className="about-skill"><p>•	Databases (MongoDB , SQL, Cloud)</p><hr style={{ width: "60%" }} /></div>
-                        <div className="about-skill"><p>•	Design & Frontend: (HTML, CSS, Responsive Web Design, UX, UI, Digital Media, Design Tools)</p><hr style={{ width: "60%" }} /></div>
+                        <div className="about-skill"><p>•	Design & Frontend: (HTML, CSS, Responsive Web Design, UX,UI)</p><hr style={{ width: "60%" }} /></div>
                         <div className="about-skill"><p>•	Frameworks and Libraries (React.js, Redux, Node.js )</p><hr style={{ width: "60%" }} /></div>
                         <div className="about-skill"><p>•	Tools (Visual Studio Code, GitHub, Figma)</p><hr style={{ width: "70%" }} /></div>
                     </div>
